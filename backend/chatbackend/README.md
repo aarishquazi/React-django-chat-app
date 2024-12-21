@@ -6,4 +6,4 @@ This is a backend server built with Django and Django Rest Framework (DRF) to ha
 
 Just write the below code in terminal
 
-python manage.py runserver
+### `python manage.py runserver`
